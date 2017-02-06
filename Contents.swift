@@ -1,0 +1,8 @@
+//: Playground - noun: a place where people can play
+
+import UIKit
+
+var str = "Hello, playground"
+
+let age = -3
+assert(age >= 0)
